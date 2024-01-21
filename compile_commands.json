@@ -1,0 +1,3643 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "bufargs.o",
+      "bufargs.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/bufargs.c",
+    "output": "/home/xukq/user/os/lib/bufargs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "cliconn.o",
+      "cliconn.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/cliconn.c",
+    "output": "/home/xukq/user/os/lib/cliconn.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "clrfl.o",
+      "clrfl.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/clrfl.c",
+    "output": "/home/xukq/user/os/lib/clrfl.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "error.o",
+      "error.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/error.c",
+    "output": "/home/xukq/user/os/lib/error.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "errorlog.o",
+      "errorlog.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/errorlog.c",
+    "output": "/home/xukq/user/os/lib/errorlog.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "locktest.o",
+      "locktest.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/locktest.c",
+    "output": "/home/xukq/user/os/lib/locktest.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "daemonize.o",
+      "daemonize.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/daemonize.c",
+    "output": "/home/xukq/user/os/lib/daemonize.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "lockreg.o",
+      "lockreg.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/lockreg.c",
+    "output": "/home/xukq/user/os/lib/lockreg.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "openmax.o",
+      "openmax.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/openmax.c",
+    "output": "/home/xukq/user/os/lib/openmax.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "pathalloc.o",
+      "pathalloc.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/pathalloc.c",
+    "output": "/home/xukq/user/os/lib/pathalloc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "popen.o",
+      "popen.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/popen.c",
+    "output": "/home/xukq/user/os/lib/popen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "prmask.o",
+      "prmask.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/prmask.c",
+    "output": "/home/xukq/user/os/lib/prmask.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "prexit.o",
+      "prexit.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/prexit.c",
+    "output": "/home/xukq/user/os/lib/prexit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ptyfork.o",
+      "ptyfork.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/ptyfork.c",
+    "output": "/home/xukq/user/os/lib/ptyfork.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ptyopen.o",
+      "ptyopen.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/ptyopen.c",
+    "output": "/home/xukq/user/os/lib/ptyopen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "readn.o",
+      "readn.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/readn.c",
+    "output": "/home/xukq/user/os/lib/readn.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "recvfd.o",
+      "recvfd.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/recvfd.c",
+    "output": "/home/xukq/user/os/lib/recvfd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "senderr.o",
+      "senderr.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/senderr.c",
+    "output": "/home/xukq/user/os/lib/senderr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sendfd.o",
+      "sendfd.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/sendfd.c",
+    "output": "/home/xukq/user/os/lib/sendfd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "servaccept.o",
+      "servaccept.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/servaccept.c",
+    "output": "/home/xukq/user/os/lib/servaccept.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "setfd.o",
+      "setfd.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/setfd.c",
+    "output": "/home/xukq/user/os/lib/setfd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "servlisten.o",
+      "servlisten.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/servlisten.c",
+    "output": "/home/xukq/user/os/lib/servlisten.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "setfl.o",
+      "setfl.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/setfl.c",
+    "output": "/home/xukq/user/os/lib/setfl.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "signal.o",
+      "signal.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/signal.c",
+    "output": "/home/xukq/user/os/lib/signal.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "signalintr.o",
+      "signalintr.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/signalintr.c",
+    "output": "/home/xukq/user/os/lib/signalintr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sleepus.o",
+      "sleepus.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/sleepus.c",
+    "output": "/home/xukq/user/os/lib/sleepus.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "spipe.o",
+      "spipe.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/spipe.c",
+    "output": "/home/xukq/user/os/lib/spipe.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "tellwait.o",
+      "tellwait.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/tellwait.c",
+    "output": "/home/xukq/user/os/lib/tellwait.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ttymodes.o",
+      "ttymodes.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/ttymodes.c",
+    "output": "/home/xukq/user/os/lib/ttymodes.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "writen.o",
+      "writen.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/writen.c",
+    "output": "/home/xukq/user/os/lib/writen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sleep.o",
+      "sleep.c"
+    ],
+    "directory": "/home/xukq/user/os/lib",
+    "file": "/home/xukq/user/os/lib/sleep.c",
+    "output": "/home/xukq/user/os/lib/sleep.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "hello",
+      "hello.c"
+    ],
+    "directory": "/home/xukq/user/os/intro",
+    "file": "/home/xukq/user/os/intro/hello.c",
+    "output": "/home/xukq/user/os/intro/hello"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "getcputc",
+      "getcputc.c"
+    ],
+    "directory": "/home/xukq/user/os/intro",
+    "file": "/home/xukq/user/os/intro/getcputc.c",
+    "output": "/home/xukq/user/os/intro/getcputc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "mycat",
+      "mycat.c"
+    ],
+    "directory": "/home/xukq/user/os/intro",
+    "file": "/home/xukq/user/os/intro/mycat.c",
+    "output": "/home/xukq/user/os/intro/mycat"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "shell1",
+      "shell1.c"
+    ],
+    "directory": "/home/xukq/user/os/intro",
+    "file": "/home/xukq/user/os/intro/shell1.c",
+    "output": "/home/xukq/user/os/intro/shell1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "shell2",
+      "shell2.c"
+    ],
+    "directory": "/home/xukq/user/os/intro",
+    "file": "/home/xukq/user/os/intro/shell2.c",
+    "output": "/home/xukq/user/os/intro/shell2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "uidgid",
+      "uidgid.c"
+    ],
+    "directory": "/home/xukq/user/os/intro",
+    "file": "/home/xukq/user/os/intro/uidgid.c",
+    "output": "/home/xukq/user/os/intro/uidgid"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "testerror",
+      "testerror.c"
+    ],
+    "directory": "/home/xukq/user/os/intro",
+    "file": "/home/xukq/user/os/intro/testerror.c",
+    "output": "/home/xukq/user/os/intro/testerror"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "ls1",
+      "ls1.c"
+    ],
+    "directory": "/home/xukq/user/os/intro",
+    "file": "/home/xukq/user/os/intro/ls1.c",
+    "output": "/home/xukq/user/os/intro/ls1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ruptime.o",
+      "ruptime.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/ruptime.c",
+    "output": "/home/xukq/user/os/sockets/ruptime.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "clconn2.o",
+      "clconn2.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/clconn2.c",
+    "output": "/home/xukq/user/os/sockets/clconn2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ruptimed.o",
+      "ruptimed.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/ruptimed.c",
+    "output": "/home/xukq/user/os/sockets/ruptimed.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "initsrv2.o",
+      "initsrv2.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/initsrv2.c",
+    "output": "/home/xukq/user/os/sockets/initsrv2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "findsvc",
+      "findsvc.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/findsvc.c",
+    "output": "/home/xukq/user/os/sockets/findsvc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ruptimed-dg.o",
+      "ruptimed-dg.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/ruptimed-dg.c",
+    "output": "/home/xukq/user/os/sockets/ruptimed-dg.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "ruptime-dg",
+      "ruptime-dg.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/ruptime-dg.c",
+    "output": "/home/xukq/user/os/sockets/ruptime-dg"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ruptimed-fd.o",
+      "ruptimed-fd.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/ruptimed-fd.c",
+    "output": "/home/xukq/user/os/sockets/ruptimed-fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "clconn.o",
+      "clconn.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/clconn.c",
+    "output": "/home/xukq/user/os/sockets/clconn.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "initsrv1.o",
+      "initsrv1.c"
+    ],
+    "directory": "/home/xukq/user/os/sockets",
+    "file": "/home/xukq/user/os/sockets/initsrv1.c",
+    "output": "/home/xukq/user/os/sockets/initsrv1.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "deadlock",
+      "deadlock.c"
+    ],
+    "directory": "/home/xukq/user/os/advio",
+    "file": "/home/xukq/user/os/advio/deadlock.c",
+    "output": "/home/xukq/user/os/advio/deadlock"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "mandatory",
+      "mandatory.c"
+    ],
+    "directory": "/home/xukq/user/os/advio",
+    "file": "/home/xukq/user/os/advio/mandatory.c",
+    "output": "/home/xukq/user/os/advio/mandatory"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "mcopy2",
+      "mcopy2.c"
+    ],
+    "directory": "/home/xukq/user/os/advio",
+    "file": "/home/xukq/user/os/advio/mcopy2.c",
+    "output": "/home/xukq/user/os/advio/mcopy2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "rot13a",
+      "rot13a.c"
+    ],
+    "directory": "/home/xukq/user/os/advio",
+    "file": "/home/xukq/user/os/advio/rot13a.c",
+    "output": "/home/xukq/user/os/advio/rot13a"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "lockfile.o",
+      "lockfile.c"
+    ],
+    "directory": "/home/xukq/user/os/advio",
+    "file": "/home/xukq/user/os/advio/lockfile.c",
+    "output": "/home/xukq/user/os/advio/lockfile.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "nonblockw",
+      "nonblockw.c"
+    ],
+    "directory": "/home/xukq/user/os/advio",
+    "file": "/home/xukq/user/os/advio/nonblockw.c",
+    "output": "/home/xukq/user/os/advio/nonblockw"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "rot13c2",
+      "rot13c2.c"
+    ],
+    "directory": "/home/xukq/user/os/advio",
+    "file": "/home/xukq/user/os/advio/rot13c2.c",
+    "output": "/home/xukq/user/os/advio/rot13c2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "init.o",
+      "init.c"
+    ],
+    "directory": "/home/xukq/user/os/daemons",
+    "file": "/home/xukq/user/os/daemons/init.c",
+    "output": "/home/xukq/user/os/daemons/init.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "reread.o",
+      "reread.c"
+    ],
+    "directory": "/home/xukq/user/os/daemons",
+    "file": "/home/xukq/user/os/daemons/reread.c",
+    "output": "/home/xukq/user/os/daemons/reread.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "reread2.o",
+      "reread2.c"
+    ],
+    "directory": "/home/xukq/user/os/daemons",
+    "file": "/home/xukq/user/os/daemons/reread2.c",
+    "output": "/home/xukq/user/os/daemons/reread2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "single.o",
+      "single.c"
+    ],
+    "directory": "/home/xukq/user/os/daemons",
+    "file": "/home/xukq/user/os/daemons/single.c",
+    "output": "/home/xukq/user/os/daemons/single.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "strftime",
+      "strftime.c"
+    ],
+    "directory": "/home/xukq/user/os/datafiles",
+    "file": "/home/xukq/user/os/datafiles/strftime.c",
+    "output": "/home/xukq/user/os/datafiles/strftime"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "getpwnam.o",
+      "getpwnam.c"
+    ],
+    "directory": "/home/xukq/user/os/datafiles",
+    "file": "/home/xukq/user/os/datafiles/getpwnam.c",
+    "output": "/home/xukq/user/os/datafiles/getpwnam.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-fPIC",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "db.c"
+    ],
+    "directory": "/home/xukq/user/os/db",
+    "file": "/home/xukq/user/os/db/db.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-I.",
+      "t4.c"
+    ],
+    "directory": "/home/xukq/user/os/db",
+    "file": "/home/xukq/user/os/db/t4.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "db.o",
+      "db.c"
+    ],
+    "directory": "/home/xukq/user/os/db",
+    "file": "/home/xukq/user/os/db/db.c",
+    "output": "/home/xukq/user/os/db/db.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "echoarg",
+      "echoarg.c"
+    ],
+    "directory": "/home/xukq/user/os/environ",
+    "file": "/home/xukq/user/os/environ/echoarg.c",
+    "output": "/home/xukq/user/os/environ/echoarg"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "doatexit",
+      "doatexit.c"
+    ],
+    "directory": "/home/xukq/user/os/environ",
+    "file": "/home/xukq/user/os/environ/doatexit.c",
+    "output": "/home/xukq/user/os/environ/doatexit"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "hello1",
+      "hello1.c"
+    ],
+    "directory": "/home/xukq/user/os/environ",
+    "file": "/home/xukq/user/os/environ/hello1.c",
+    "output": "/home/xukq/user/os/environ/hello1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "testjmp",
+      "testjmp.c"
+    ],
+    "directory": "/home/xukq/user/os/environ",
+    "file": "/home/xukq/user/os/environ/testjmp.c",
+    "output": "/home/xukq/user/os/environ/testjmp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "opendata.o",
+      "opendata.c"
+    ],
+    "directory": "/home/xukq/user/os/environ",
+    "file": "/home/xukq/user/os/environ/opendata.c",
+    "output": "/home/xukq/user/os/environ/opendata.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "scope.o",
+      "scope.c"
+    ],
+    "directory": "/home/xukq/user/os/environ",
+    "file": "/home/xukq/user/os/environ/scope.c",
+    "output": "/home/xukq/user/os/environ/scope.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "getrlimit",
+      "getrlimit.c"
+    ],
+    "directory": "/home/xukq/user/os/environ",
+    "file": "/home/xukq/user/os/environ/getrlimit.c",
+    "output": "/home/xukq/user/os/environ/getrlimit"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "fileflags",
+      "fileflags.c"
+    ],
+    "directory": "/home/xukq/user/os/fileio",
+    "file": "/home/xukq/user/os/fileio/fileflags.c",
+    "output": "/home/xukq/user/os/fileio/fileflags"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "hole",
+      "hole.c"
+    ],
+    "directory": "/home/xukq/user/os/fileio",
+    "file": "/home/xukq/user/os/fileio/hole.c",
+    "output": "/home/xukq/user/os/fileio/hole"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "mycat",
+      "mycat.c"
+    ],
+    "directory": "/home/xukq/user/os/fileio",
+    "file": "/home/xukq/user/os/fileio/mycat.c",
+    "output": "/home/xukq/user/os/fileio/mycat"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "setfl.o",
+      "setfl.c"
+    ],
+    "directory": "/home/xukq/user/os/fileio",
+    "file": "/home/xukq/user/os/fileio/setfl.c",
+    "output": "/home/xukq/user/os/fileio/setfl.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "seek",
+      "seek.c"
+    ],
+    "directory": "/home/xukq/user/os/fileio",
+    "file": "/home/xukq/user/os/fileio/seek.c",
+    "output": "/home/xukq/user/os/fileio/seek"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "access",
+      "access.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/access.c",
+    "output": "/home/xukq/user/os/filedir/access"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "changemod",
+      "changemod.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/changemod.c",
+    "output": "/home/xukq/user/os/filedir/changemod"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "cdpwd",
+      "cdpwd.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/cdpwd.c",
+    "output": "/home/xukq/user/os/filedir/cdpwd"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "mycd",
+      "mycd.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/mycd.c",
+    "output": "/home/xukq/user/os/filedir/mycd"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "devrdev",
+      "devrdev.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/devrdev.c",
+    "output": "/home/xukq/user/os/filedir/devrdev"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "umask",
+      "umask.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/umask.c",
+    "output": "/home/xukq/user/os/filedir/umask"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "unlink",
+      "unlink.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/unlink.c",
+    "output": "/home/xukq/user/os/filedir/unlink"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "filetype",
+      "filetype.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/filetype.c",
+    "output": "/home/xukq/user/os/filedir/filetype"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "zap",
+      "zap.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/zap.c",
+    "output": "/home/xukq/user/os/filedir/zap"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "ftw8",
+      "ftw8.c"
+    ],
+    "directory": "/home/xukq/user/os/filedir",
+    "file": "/home/xukq/user/os/filedir/ftw8.c",
+    "output": "/home/xukq/user/os/filedir/ftw8"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "add2",
+      "add2.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/add2.c",
+    "output": "/home/xukq/user/os/ipc1/add2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "add2stdio",
+      "add2stdio.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/add2stdio.c",
+    "output": "/home/xukq/user/os/ipc1/add2stdio"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "devzero",
+      "devzero.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/devzero.c",
+    "output": "/home/xukq/user/os/ipc1/devzero"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "pipe1",
+      "pipe1.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/pipe1.c",
+    "output": "/home/xukq/user/os/ipc1/pipe1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "pipe4",
+      "pipe4.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/pipe4.c",
+    "output": "/home/xukq/user/os/ipc1/pipe4"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "popen1",
+      "popen1.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/popen1.c",
+    "output": "/home/xukq/user/os/ipc1/popen1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "pipe2",
+      "pipe2.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/pipe2.c",
+    "output": "/home/xukq/user/os/ipc1/pipe2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "myuclc",
+      "myuclc.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/myuclc.c",
+    "output": "/home/xukq/user/os/ipc1/myuclc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "popen2",
+      "popen2.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/popen2.c",
+    "output": "/home/xukq/user/os/ipc1/popen2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "tshm",
+      "tshm.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/tshm.c",
+    "output": "/home/xukq/user/os/ipc1/tshm"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "popen.o",
+      "popen.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/popen.c",
+    "output": "/home/xukq/user/os/ipc1/popen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "slock.o",
+      "slock.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/slock.c",
+    "output": "/home/xukq/user/os/ipc1/slock.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "tellwait.o",
+      "tellwait.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc1",
+    "file": "/home/xukq/user/os/ipc1/tellwait.c",
+    "output": "/home/xukq/user/os/ipc1/tellwait.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "bindunix",
+      "bindunix.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2",
+    "file": "/home/xukq/user/os/ipc2/bindunix.c",
+    "output": "/home/xukq/user/os/ipc2/bindunix"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "pollmsg",
+      "pollmsg.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2",
+    "file": "/home/xukq/user/os/ipc2/pollmsg.c",
+    "output": "/home/xukq/user/os/ipc2/pollmsg"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "sendmsg",
+      "sendmsg.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2",
+    "file": "/home/xukq/user/os/ipc2/sendmsg.c",
+    "output": "/home/xukq/user/os/ipc2/sendmsg"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sendfd2.o",
+      "sendfd2.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2",
+    "file": "/home/xukq/user/os/ipc2/sendfd2.c",
+    "output": "/home/xukq/user/os/ipc2/sendfd2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "recvfd2.o",
+      "recvfd2.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2",
+    "file": "/home/xukq/user/os/ipc2/recvfd2.c",
+    "output": "/home/xukq/user/os/ipc2/recvfd2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/open",
+    "file": "/home/xukq/user/os/ipc2/open/main.c",
+    "output": "/home/xukq/user/os/ipc2/open/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "open.o",
+      "open.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/open",
+    "file": "/home/xukq/user/os/ipc2/open/open.c",
+    "output": "/home/xukq/user/os/ipc2/open/open.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend",
+    "file": "/home/xukq/user/os/ipc2/opend/main.c",
+    "output": "/home/xukq/user/os/ipc2/opend/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "request.o",
+      "request.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend",
+    "file": "/home/xukq/user/os/ipc2/opend/request.c",
+    "output": "/home/xukq/user/os/ipc2/opend/request.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "cliargs.o",
+      "cliargs.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend",
+    "file": "/home/xukq/user/os/ipc2/opend/cliargs.c",
+    "output": "/home/xukq/user/os/ipc2/opend/cliargs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "loop.poll.o",
+      "loop.poll.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend",
+    "file": "/home/xukq/user/os/ipc2/opend/loop.poll.c",
+    "output": "/home/xukq/user/os/ipc2/opend/loop.poll.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "loop.select.o",
+      "loop.select.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend",
+    "file": "/home/xukq/user/os/ipc2/opend/loop.select.c",
+    "output": "/home/xukq/user/os/ipc2/opend/loop.select.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "client.o",
+      "client.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend",
+    "file": "/home/xukq/user/os/ipc2/opend/client.c",
+    "output": "/home/xukq/user/os/ipc2/opend/client.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/open.fe",
+    "file": "/home/xukq/user/os/ipc2/open.fe/main.c",
+    "output": "/home/xukq/user/os/ipc2/open.fe/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "open.o",
+      "open.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/open.fe",
+    "file": "/home/xukq/user/os/ipc2/open.fe/open.c",
+    "output": "/home/xukq/user/os/ipc2/open.fe/open.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "request.o",
+      "request.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend.fe",
+    "file": "/home/xukq/user/os/ipc2/opend.fe/request.c",
+    "output": "/home/xukq/user/os/ipc2/opend.fe/request.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend.fe",
+    "file": "/home/xukq/user/os/ipc2/opend.fe/main.c",
+    "output": "/home/xukq/user/os/ipc2/opend.fe/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "cliargs.o",
+      "cliargs.c"
+    ],
+    "directory": "/home/xukq/user/os/ipc2/opend.fe",
+    "file": "/home/xukq/user/os/ipc2/opend.fe/cliargs.c",
+    "output": "/home/xukq/user/os/ipc2/opend.fe/cliargs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "echoall",
+      "echoall.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/echoall.c",
+    "output": "/home/xukq/user/os/proc/echoall"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "exec1",
+      "exec1.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/exec1.c",
+    "output": "/home/xukq/user/os/proc/exec1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "exec2",
+      "exec2.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/exec2.c",
+    "output": "/home/xukq/user/os/proc/exec2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "fork2",
+      "fork2.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/fork2.c",
+    "output": "/home/xukq/user/os/proc/fork2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "nice",
+      "nice.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/nice.c",
+    "output": "/home/xukq/user/os/proc/nice"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "tellwait1",
+      "tellwait1.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/tellwait1.c",
+    "output": "/home/xukq/user/os/proc/tellwait1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "pruids",
+      "pruids.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/pruids.c",
+    "output": "/home/xukq/user/os/proc/pruids"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "fork1",
+      "fork1.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/fork1.c",
+    "output": "/home/xukq/user/os/proc/fork1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "tellwait2",
+      "tellwait2.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/tellwait2.c",
+    "output": "/home/xukq/user/os/proc/tellwait2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "times1",
+      "times1.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/times1.c",
+    "output": "/home/xukq/user/os/proc/times1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "test1",
+      "test1.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/test1.c",
+    "output": "/home/xukq/user/os/proc/test1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "wait1",
+      "wait1.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/wait1.c",
+    "output": "/home/xukq/user/os/proc/wait1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "vfork1",
+      "vfork1.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/vfork1.c",
+    "output": "/home/xukq/user/os/proc/vfork1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "system.o",
+      "system.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/system.c",
+    "output": "/home/xukq/user/os/proc/system.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "systest1.o",
+      "systest1.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/systest1.c",
+    "output": "/home/xukq/user/os/proc/systest1.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "systest3.o",
+      "systest3.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/systest3.c",
+    "output": "/home/xukq/user/os/proc/systest3.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-DHAS_AXSIG",
+      "-DHAS_ACORE",
+      "-o",
+      "pracct",
+      "pracct.c"
+    ],
+    "directory": "/home/xukq/user/os/proc",
+    "file": "/home/xukq/user/os/proc/pracct.c",
+    "output": "/home/xukq/user/os/proc/pracct"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "loop.o",
+      "loop.c"
+    ],
+    "directory": "/home/xukq/user/os/pty",
+    "file": "/home/xukq/user/os/pty/loop.c",
+    "output": "/home/xukq/user/os/pty/loop.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/xukq/user/os/pty",
+    "file": "/home/xukq/user/os/pty/main.c",
+    "output": "/home/xukq/user/os/pty/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "driver.o",
+      "driver.c"
+    ],
+    "directory": "/home/xukq/user/os/pty",
+    "file": "/home/xukq/user/os/pty/driver.c",
+    "output": "/home/xukq/user/os/pty/driver.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "orphan3",
+      "orphan3.c"
+    ],
+    "directory": "/home/xukq/user/os/relation",
+    "file": "/home/xukq/user/os/relation/orphan3.c",
+    "output": "/home/xukq/user/os/relation/orphan3"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "mask",
+      "mask.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/mask.c",
+    "output": "/home/xukq/user/os/signals/mask"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "critical",
+      "critical.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/critical.c",
+    "output": "/home/xukq/user/os/signals/critical"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "read1",
+      "read1.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/read1.c",
+    "output": "/home/xukq/user/os/signals/read1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "read2",
+      "read2.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/read2.c",
+    "output": "/home/xukq/user/os/signals/read2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "sigtstp",
+      "sigtstp.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/sigtstp.c",
+    "output": "/home/xukq/user/os/signals/sigtstp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "reenter",
+      "reenter.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/reenter.c",
+    "output": "/home/xukq/user/os/signals/reenter"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "sigusr",
+      "sigusr.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/sigusr.c",
+    "output": "/home/xukq/user/os/signals/sigusr"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "suspend1",
+      "suspend1.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/suspend1.c",
+    "output": "/home/xukq/user/os/signals/suspend1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "suspend2",
+      "suspend2.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/suspend2.c",
+    "output": "/home/xukq/user/os/signals/suspend2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "systest2.o",
+      "systest2.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/systest2.c",
+    "output": "/home/xukq/user/os/signals/systest2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "system.o",
+      "system.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/system.c",
+    "output": "/home/xukq/user/os/signals/system.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "tsleep2.o",
+      "tsleep2.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/tsleep2.c",
+    "output": "/home/xukq/user/os/signals/tsleep2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sleep2.o",
+      "sleep2.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/sleep2.c",
+    "output": "/home/xukq/user/os/signals/sleep2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "abort.o",
+      "abort.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/abort.c",
+    "output": "/home/xukq/user/os/signals/abort.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "child",
+      "child.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/child.c",
+    "output": "/home/xukq/user/os/signals/child"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sleep1.o",
+      "sleep1.c"
+    ],
+    "directory": "/home/xukq/user/os/signals",
+    "file": "/home/xukq/user/os/signals/sleep1.c",
+    "output": "/home/xukq/user/os/signals/sleep1.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "conf",
+      "conf.c"
+    ],
+    "directory": "/home/xukq/user/os/standards",
+    "file": "/home/xukq/user/os/standards/conf.c",
+    "output": "/home/xukq/user/os/standards/conf"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "options",
+      "options.c"
+    ],
+    "directory": "/home/xukq/user/os/standards",
+    "file": "/home/xukq/user/os/standards/options.c",
+    "output": "/home/xukq/user/os/standards/options"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "fgetsfputs",
+      "fgetsfputs.c"
+    ],
+    "directory": "/home/xukq/user/os/stdio",
+    "file": "/home/xukq/user/os/stdio/fgetsfputs.c",
+    "output": "/home/xukq/user/os/stdio/fgetsfputs"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "buf",
+      "buf.c"
+    ],
+    "directory": "/home/xukq/user/os/stdio",
+    "file": "/home/xukq/user/os/stdio/buf.c",
+    "output": "/home/xukq/user/os/stdio/buf"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "getcputc",
+      "getcputc.c"
+    ],
+    "directory": "/home/xukq/user/os/stdio",
+    "file": "/home/xukq/user/os/stdio/getcputc.c",
+    "output": "/home/xukq/user/os/stdio/getcputc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "getcharbug",
+      "getcharbug.c"
+    ],
+    "directory": "/home/xukq/user/os/stdio",
+    "file": "/home/xukq/user/os/stdio/getcharbug.c",
+    "output": "/home/xukq/user/os/stdio/getcharbug"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "memstr",
+      "memstr.c"
+    ],
+    "directory": "/home/xukq/user/os/stdio",
+    "file": "/home/xukq/user/os/stdio/memstr.c",
+    "output": "/home/xukq/user/os/stdio/memstr"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "tempfiles",
+      "tempfiles.c"
+    ],
+    "directory": "/home/xukq/user/os/stdio",
+    "file": "/home/xukq/user/os/stdio/tempfiles.c",
+    "output": "/home/xukq/user/os/stdio/tempfiles"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "mkstemp",
+      "mkstemp.c"
+    ],
+    "directory": "/home/xukq/user/os/stdio",
+    "file": "/home/xukq/user/os/stdio/mkstemp.c",
+    "output": "/home/xukq/user/os/stdio/mkstemp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "settty",
+      "settty.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/settty.c",
+    "output": "/home/xukq/user/os/termios/settty"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "csize",
+      "csize.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/csize.c",
+    "output": "/home/xukq/user/os/termios/csize"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "t_isatty",
+      "t_isatty.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/t_isatty.c",
+    "output": "/home/xukq/user/os/termios/t_isatty"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "t_getpass",
+      "t_getpass.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/t_getpass.c",
+    "output": "/home/xukq/user/os/termios/t_getpass"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "winch",
+      "winch.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/winch.c",
+    "output": "/home/xukq/user/os/termios/winch"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ctermid.o",
+      "ctermid.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/ctermid.c",
+    "output": "/home/xukq/user/os/termios/ctermid.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "t_ttyname",
+      "t_ttyname.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/t_ttyname.c",
+    "output": "/home/xukq/user/os/termios/t_ttyname"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-o",
+      "t_raw",
+      "t_raw.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/t_raw.c",
+    "output": "/home/xukq/user/os/termios/t_raw"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "getpass.o",
+      "getpass.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/getpass.c",
+    "output": "/home/xukq/user/os/termios/getpass.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "isatty.o",
+      "isatty.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/isatty.c",
+    "output": "/home/xukq/user/os/termios/isatty.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "ttyname.o",
+      "ttyname.c"
+    ],
+    "directory": "/home/xukq/user/os/termios",
+    "file": "/home/xukq/user/os/termios/ttyname.c",
+    "output": "/home/xukq/user/os/termios/ttyname.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "atfork",
+      "atfork.c"
+    ],
+    "directory": "/home/xukq/user/os/threadctl",
+    "file": "/home/xukq/user/os/threadctl/atfork.c",
+    "output": "/home/xukq/user/os/threadctl/atfork"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "detach.o",
+      "detach.c"
+    ],
+    "directory": "/home/xukq/user/os/threadctl",
+    "file": "/home/xukq/user/os/threadctl/detach.c",
+    "output": "/home/xukq/user/os/threadctl/detach.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "suspend",
+      "suspend.c"
+    ],
+    "directory": "/home/xukq/user/os/threadctl",
+    "file": "/home/xukq/user/os/threadctl/suspend.c",
+    "output": "/home/xukq/user/os/threadctl/suspend"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "getenv1.o",
+      "getenv1.c"
+    ],
+    "directory": "/home/xukq/user/os/threadctl",
+    "file": "/home/xukq/user/os/threadctl/getenv1.c",
+    "output": "/home/xukq/user/os/threadctl/getenv1.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "getenv3.o",
+      "getenv3.c"
+    ],
+    "directory": "/home/xukq/user/os/threadctl",
+    "file": "/home/xukq/user/os/threadctl/getenv3.c",
+    "output": "/home/xukq/user/os/threadctl/getenv3.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "timeout.o",
+      "timeout.c"
+    ],
+    "directory": "/home/xukq/user/os/threadctl",
+    "file": "/home/xukq/user/os/threadctl/timeout.c",
+    "output": "/home/xukq/user/os/threadctl/timeout.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "getenv2.o",
+      "getenv2.c"
+    ],
+    "directory": "/home/xukq/user/os/threadctl",
+    "file": "/home/xukq/user/os/threadctl/getenv2.c",
+    "output": "/home/xukq/user/os/threadctl/getenv2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "badexit2",
+      "badexit2.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/badexit2.c",
+    "output": "/home/xukq/user/os/threads/badexit2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "threadid",
+      "threadid.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/threadid.c",
+    "output": "/home/xukq/user/os/threads/threadid"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "cleanup",
+      "cleanup.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/cleanup.c",
+    "output": "/home/xukq/user/os/threads/cleanup"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "exitstatus",
+      "exitstatus.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/exitstatus.c",
+    "output": "/home/xukq/user/os/threads/exitstatus"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "mutex2.o",
+      "mutex2.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/mutex2.c",
+    "output": "/home/xukq/user/os/threads/mutex2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "mutex1.o",
+      "mutex1.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/mutex1.c",
+    "output": "/home/xukq/user/os/threads/mutex1.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "maketimeout.o",
+      "maketimeout.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/maketimeout.c",
+    "output": "/home/xukq/user/os/threads/maketimeout.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "condvar.o",
+      "condvar.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/condvar.c",
+    "output": "/home/xukq/user/os/threads/condvar.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "mutex3.o",
+      "mutex3.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/mutex3.c",
+    "output": "/home/xukq/user/os/threads/mutex3.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "rwlock.o",
+      "rwlock.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/rwlock.c",
+    "output": "/home/xukq/user/os/threads/rwlock.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "timedlock",
+      "timedlock.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/timedlock.c",
+    "output": "/home/xukq/user/os/threads/timedlock"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "barrier",
+      "barrier.c"
+    ],
+    "directory": "/home/xukq/user/os/threads",
+    "file": "/home/xukq/user/os/threads/barrier.c",
+    "output": "/home/xukq/user/os/threads/barrier"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "print.o",
+      "print.c"
+    ],
+    "directory": "/home/xukq/user/os/printer",
+    "file": "/home/xukq/user/os/printer/print.c",
+    "output": "/home/xukq/user/os/printer/print.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "util.o",
+      "util.c"
+    ],
+    "directory": "/home/xukq/user/os/printer",
+    "file": "/home/xukq/user/os/printer/util.c",
+    "output": "/home/xukq/user/os/printer/util.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "printd.o",
+      "printd.c"
+    ],
+    "directory": "/home/xukq/user/os/printer",
+    "file": "/home/xukq/user/os/printer/printd.c",
+    "output": "/home/xukq/user/os/printer/printd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "bo",
+      "bo.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/bo.c",
+    "output": "/home/xukq/user/os/exercises/bo"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "fifo1",
+      "fifo1.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/fifo1.c",
+    "output": "/home/xukq/user/os/exercises/fifo1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "goodexit",
+      "goodexit.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/goodexit.c",
+    "output": "/home/xukq/user/os/exercises/goodexit"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "longpath",
+      "longpath.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/longpath.c",
+    "output": "/home/xukq/user/os/exercises/longpath"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "getlogin",
+      "getlogin.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/getlogin.c",
+    "output": "/home/xukq/user/os/exercises/getlogin"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "pendlock",
+      "pendlock.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/pendlock.c",
+    "output": "/home/xukq/user/os/exercises/pendlock"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "sizepipe",
+      "sizepipe.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/sizepipe.c",
+    "output": "/home/xukq/user/os/exercises/sizepipe"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "prtime",
+      "prtime.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/prtime.c",
+    "output": "/home/xukq/user/os/exercises/prtime"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "zombie",
+      "zombie.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/zombie.c",
+    "output": "/home/xukq/user/os/exercises/zombie"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "asyncsocket.o",
+      "asyncsocket.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/asyncsocket.c",
+    "output": "/home/xukq/user/os/exercises/asyncsocket.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "vfork3",
+      "vfork3.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/vfork3.c",
+    "output": "/home/xukq/user/os/exercises/vfork3"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "openmax.o",
+      "openmax.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/openmax.c",
+    "output": "/home/xukq/user/os/exercises/openmax.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sleep.o",
+      "sleep.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/sleep.c",
+    "output": "/home/xukq/user/os/exercises/sleep.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sleepus_poll.o",
+      "sleepus_poll.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/sleepus_poll.c",
+    "output": "/home/xukq/user/os/exercises/sleepus_poll.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-c",
+      "-o",
+      "sleepus_select.o",
+      "sleepus_select.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/sleepus_select.c",
+    "output": "/home/xukq/user/os/exercises/sleepus_select.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-ansi",
+      "-I../include",
+      "-Wall",
+      "-DLINUX",
+      "-D_GNU_SOURCE",
+      "-pthread",
+      "-o",
+      "getpwsvr4",
+      "getpwsvr4.c"
+    ],
+    "directory": "/home/xukq/user/os/exercises",
+    "file": "/home/xukq/user/os/exercises/getpwsvr4.c",
+    "output": "/home/xukq/user/os/exercises/getpwsvr4"
+  }
+]
